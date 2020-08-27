@@ -3,7 +3,7 @@
 
 ### Introduction:
 当年为迎接新生制作的游戏，年代久远，制作粗糙，仅供回忆与搞笑。
-The game made to welcome the new students is old and rough, just for memory and funny
+
 
 <p align="center"><img style="border:1px solid black;" src="https://github.com/leewenqing/ZJUT-First-Meet/blob/master/ZJUT%C2%B7%E5%88%9D%E8%A7%81/ZJUT%C2%B7%E5%88%9D%E8%A7%81/pic/1.gif?raw=true" alt="game pic"></p><figcaption align="center"><strong>Fig 1.</strong><em> 
 The main interface of the game .</em></figcaption>
